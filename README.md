@@ -11,6 +11,10 @@ Fly In is a Python project that simulates multiple drones navigating a map repre
 - Simultaneous drone movement.
 - Graphical visualization using Pygame.
 
+## Example of Visualization
+
+![Fly In Simulation](images/simulation.png)
+
 ## Algorithm and Implementation Strategy
 
 ### Pathfinding
